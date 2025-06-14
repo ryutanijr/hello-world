@@ -1,5 +1,15 @@
-# hello-world
-My first repository for test
+# Análise de Vendas com Python
 
-Ryuta here, I'm trying this tool out for the first time.
-I'm actually a spreadsheet developer at work, but now I'm learning about web development.
+Este projeto foi criado para testar o GitHub Copilot Codex Agent com um script simples de análise de dados.
+
+## Funcionalidade
+- Lê um arquivo Excel com dados de vendas
+- Resume os valores por produto
+- Gera um CSV com o resultado
+
+## Requisitos
+- Python 3.8+
+- Instalar dependências com:
+
+```bash
+pip install -r requirements.txt
